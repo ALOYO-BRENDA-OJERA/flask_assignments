@@ -1,0 +1,32 @@
+Flask is a light weight web development frame work for python.
+it was developed in 2010 by Armin Ronacher.
+Flask runs on the engine templet jinja2, and works on the priciple of WSGI(web server Gateway Interface).
+
+
+
+PREREQUISITES OF Flask
+1.python 
+2.virtual environment
+3.pip
+
+Application of Flask
+1.web Applications
+2.websites
+3.API development
+
+Demerits of using python
+1.It has few inbuilt features
+2.Flask is often referred to as a microframework, which means it 
+provides the essentials for building web applications, which mean one would have to consider other 
+options for large/heavy projects .
+
+
+
+About the name variable.
+The" __name__"is a special Python variable that represents the name of the current module
+When the Python interpreter runs a script, it sets the __name__ variable for that script. 
+If the script is the main program being run, then __name__ is set to "__main__
+If the script is being imported into another module, then __name__ is set to the name of the module.
+
+
+
